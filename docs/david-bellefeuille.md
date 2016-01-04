@@ -1,6 +1,10 @@
 #Introduction#
 
-* David Bellefeuille
-* Redlands,CA
-* Tacos
-* Reading
+*Name
+ * David Bellefeuille
+*From
+ * Redlands,CA
+*Favorite Food
+ * Tacos
+* Hobby
+ * Reading
