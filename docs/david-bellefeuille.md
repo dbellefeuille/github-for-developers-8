@@ -1,10 +1,10 @@
 #Introduction#
 
-*Name
+* Name
  * David Bellefeuille
-*From
+* From
  * Redlands,CA
-*Favorite Food
+* Favorite Food
  * Tacos
 * Hobby
  * Reading
