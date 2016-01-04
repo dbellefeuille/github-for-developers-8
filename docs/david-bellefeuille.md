@@ -1,6 +1,6 @@
 #Introduction#
 
-*David Bellefeuille
-*Redlands,CA
-*Tacos
-*Reading
+* David Bellefeuille
+* Redlands,CA
+* Tacos
+* Reading
